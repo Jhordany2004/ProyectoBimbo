@@ -1,0 +1,68 @@
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormActividadesDeCapacitaciones.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormDetalleEvaluacionDesempeño.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.MenuPrincipal.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.Properties.Resources.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\ProyectoBimbo.exe.config
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\ProyectoBimbo.exe
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\ProyectoBimbo.pdb
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.exe
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.pdb
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormAreas.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormCronograma.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormDocumentoNecesidadesFormativas.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEmpleados.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEncuestas.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEstandarCompetencia.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormPlanDesarrolloFormativo.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormPreguntaEncuesta.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormPreguntasEvaluacionDesempeño.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormDocumentoResultadoProgreso.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEvaluacionDesempeño.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEvaluacionProgreso.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormRealizarEncuestaEmpleados.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormResolucionEvaluacionProgreso.resources
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormResultadoDesempeño.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\ProyectoBimbo.exe.config
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\ProyectoBimbo.exe
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\ProyectoBimbo.pdb
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaDatos.dll
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\bin\Debug\CapaDatos.pdb
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormActividadesDeCapacitaciones.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormAreas.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormCronograma.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormDetalleEvaluacionDesempeño.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormDocumentoNecesidadesFormativas.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormDocumentoResultadoProgreso.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEmpleados.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEncuestas.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEstandarCompetencia.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEvaluacionDesempeño.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormEvaluacionProgreso.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormPlanDesarrolloFormativo.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormPreguntaEncuesta.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormPreguntasEvaluacionDesempeño.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormRealizarEncuestaEmpleados.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormResolucionEvaluacionProgreso.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.FormResultadoDesempeño.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.MenuPrincipal.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.Properties.Resources.resources
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.exe
+C:\Users\Jhordany\Desktop\Ciclo 5\Model.Y Analisis de Software\ProyectoBimbo\ProyectoBimbo\obj\Debug\ProyectoBimbo.pdb

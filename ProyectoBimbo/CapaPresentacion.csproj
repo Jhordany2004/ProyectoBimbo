@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{24BF4BD5-F5D8-47B3-A3C3-BFDD7935A508}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoBimbo</RootNamespace>
+    <AssemblyName>ProyectoBimbo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormActividadesDeCapacitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormActividadesDeCapacitaciones.Designer.cs">
+      <DependentUpon>FormActividadesDeCapacitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAreas.Designer.cs">
+      <DependentUpon>FormAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCronograma.Designer.cs">
+      <DependentUpon>FormCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalleEvaluacionDesempeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetalleEvaluacionDesempeño.Designer.cs">
+      <DependentUpon>FormDetalleEvaluacionDesempeño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocumentoNecesidadesFormativas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocumentoNecesidadesFormativas.Designer.cs">
+      <DependentUpon>FormDocumentoNecesidadesFormativas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocumentoResultadoProgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocumentoResultadoProgreso.Designer.cs">
+      <DependentUpon>FormDocumentoResultadoProgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmpleados.Designer.cs">
+      <DependentUpon>FormEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEncuestas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEncuestas.Designer.cs">
+      <DependentUpon>FormEncuestas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEstandarCompetencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEstandarCompetencia.Designer.cs">
+      <DependentUpon>FormEstandarCompetencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEvaluacionDesempeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEvaluacionDesempeño.Designer.cs">
+      <DependentUpon>FormEvaluacionDesempeño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEvaluacionProgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEvaluacionProgreso.Designer.cs">
+      <DependentUpon>FormEvaluacionProgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPlanDesarrolloFormativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlanDesarrolloFormativo.Designer.cs">
+      <DependentUpon>FormPlanDesarrolloFormativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPreguntaEncuesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPreguntaEncuesta.Designer.cs">
+      <DependentUpon>FormPreguntaEncuesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPreguntasEvaluacionDesempeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPreguntasEvaluacionDesempeño.Designer.cs">
+      <DependentUpon>FormPreguntasEvaluacionDesempeño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRealizarEncuestaEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRealizarEncuestaEmpleados.Designer.cs">
+      <DependentUpon>FormRealizarEncuestaEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormResolucionEvaluacionProgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormResolucionEvaluacionProgreso.Designer.cs">
+      <DependentUpon>FormResolucionEvaluacionProgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormResultadoDesempeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormResultadoDesempeño.Designer.cs">
+      <DependentUpon>FormResultadoDesempeño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormActividadesDeCapacitaciones.resx">
+      <DependentUpon>FormActividadesDeCapacitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAreas.resx">
+      <DependentUpon>FormAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCronograma.resx">
+      <DependentUpon>FormCronograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetalleEvaluacionDesempeño.resx">
+      <DependentUpon>FormDetalleEvaluacionDesempeño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocumentoNecesidadesFormativas.resx">
+      <DependentUpon>FormDocumentoNecesidadesFormativas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocumentoResultadoProgreso.resx">
+      <DependentUpon>FormDocumentoResultadoProgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmpleados.resx">
+      <DependentUpon>FormEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEncuestas.resx">
+      <DependentUpon>FormEncuestas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEstandarCompetencia.resx">
+      <DependentUpon>FormEstandarCompetencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEvaluacionDesempeño.resx">
+      <DependentUpon>FormEvaluacionDesempeño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEvaluacionProgreso.resx">
+      <DependentUpon>FormEvaluacionProgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlanDesarrolloFormativo.resx">
+      <DependentUpon>FormPlanDesarrolloFormativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPreguntaEncuesta.resx">
+      <DependentUpon>FormPreguntaEncuesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPreguntasEvaluacionDesempeño.resx">
+      <DependentUpon>FormPreguntasEvaluacionDesempeño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRealizarEncuestaEmpleados.resx">
+      <DependentUpon>FormRealizarEncuestaEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormResolucionEvaluacionProgreso.resx">
+      <DependentUpon>FormResolucionEvaluacionProgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormResultadoDesempeño.resx">
+      <DependentUpon>FormResultadoDesempeño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{fdfcbcb9-c127-4a40-b52f-5c47e1a43d52}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLogicaNegocio\CapaLogicaNegocio.csproj">
+      <Project>{6ebd9039-4713-4f99-a540-7237f8c67f0b}</Project>
+      <Name>CapaLogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

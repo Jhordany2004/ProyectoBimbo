@@ -1,0 +1,6 @@
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jhordany\Desktop\ProyectoCasiMoanso\ProyectoVisual2019BIMBO\ProyectoBimbo\CapaEntidad\obj\Debug\CapaEntidad.pdb
